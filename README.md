@@ -11,7 +11,7 @@
 - 🚀 Currently working at **i-care Spain**, building front-end solutions with **React** and **TypeScript**.
 - 🎯 Focused on writing clean, testable, and scalable code.
 - 🧪 Using **Vitest** and **Jest** to ensure high-quality and robust applications.
-- 🎓 Graduated in Web Application Development + Ironhack bootcamp alumni.
+- 🎓 Graduated in Web Application Development.
 - 🌍 Based in **Castellón de la Plana, Spain**.
 
 ---
